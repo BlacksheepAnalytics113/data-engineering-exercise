@@ -1,0 +1,4 @@
+api:
+  subject: "science_fiction"
+  base_url: "https://openlibrary.org/subjects"
+  endpoint_format: "{base_url}/{subject}.json"
